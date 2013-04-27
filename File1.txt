@@ -1,3 +1,7 @@
 Hellow world
+<<<<<<< HEAD
 buy war2!
 12
+=======
+by war!
+>>>>>>> parent of 8bce166... Update File1.txt
